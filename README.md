@@ -1,5 +1,41 @@
 # ADAVANCEDJAVA
+lab1A  output link:
+ListOperationsDemo-oplink:
+https://github.com/Beereshsk/ADAVANCEDJAVA/blob/main/LAB1A/LAB1A/ListOperationsDemo.png
 
+lab1b output link:
+SearchColor-o/plink:
+https://github.com/Beereshsk/ADAVANCEDJAVA/blob/main/LAB1B/LAB1B/SearchColor.png
+
+RemoveColors-o/plink:
+https://github.com/Beereshsk/ADAVANCEDJAVA/blob/main/LAB1B/LAB1B/RemoveColors.png
+
+RemoveNthElement-o/plink:
+https://github.com/Beereshsk/ADAVANCEDJAVA/blob/main/LAB1B/LAB1B/RemoveNthElement.png
+
+SortColors-o/plink:
+https://github.com/Beereshsk/ADAVANCEDJAVA/blob/main/LAB1B/LAB1B/SortColors.png
+
+SubListExample-o/plink:
+https://github.com/Beereshsk/ADAVANCEDJAVA/blob/main/LAB1B/LAB1B/SubListExample.png
+
+
+lab1c output link:
+DisplayWithPosition-o/plink:
+https://github.com/Beereshsk/ADAVANCEDJAVA/blob/main/LAB1C/LAB1C/DisplayWithPosition.png
+
+InsertAtEnd-o/plink:
+https://github.com/Beereshsk/ADAVANCEDJAVA/blob/main/LAB1C/LAB1C/InsertAtEnd.png
+
+IterateFromSecond-o/plink:
+https://github.com/Beereshsk/ADAVANCEDJAVA/blob/main/LAB1C/LAB1C/IterateFromSecond.png
+
+
+ReverseIteration-o/plink:
+https://github.com/Beereshsk/ADAVANCEDJAVA/blob/main/LAB1C/LAB1C/ReverseIteration.png
+
+SwapElements-o/plink:
+https://github.com/Beereshsk/ADAVANCEDJAVA/blob/main/LAB1C/LAB1C/SwapElements.png
 
 
 
